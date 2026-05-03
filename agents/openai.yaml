@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hairstyle Makeover"
+  short_description: "Analyze a portrait, rank hairstyles, and prepare try-on prompts."
+  default_prompt: "Use $hairstyle-makeover to analyze this portrait, recommend hairstyles, and prepare consistent try-on prompts."
